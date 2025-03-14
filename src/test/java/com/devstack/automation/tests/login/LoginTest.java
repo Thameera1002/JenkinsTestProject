@@ -16,6 +16,7 @@ public class LoginTest extends BaseTest {
         common.bc_login(loginTestData.getUserName(), loginTestData.getPassword());
 
 //comment added
+        //comment 2 added
     }
 
 }
