@@ -15,7 +15,7 @@ public class LoginTest extends BaseTest {
 //        common.bc_login(PropertyHandler.getProperty("username"), PropertyHandler.getProperty("password"));
         common.bc_login(loginTestData.getUserName(), loginTestData.getPassword());
 
-
+//comment added
     }
 
 }
